@@ -60,8 +60,7 @@ The Analysis consists of 6 steps which are
       # delete column with activity number
 
 
-# 5.  From the data set in step 4, creates a second, independent tidy data set with the
-#     average of each variable for each activity and each subject.
+# 5.  From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
       
       # 30 subjects x 6 activities = 180 rows
       
